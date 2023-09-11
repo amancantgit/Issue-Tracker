@@ -6,13 +6,13 @@ Hosted link :  https://amancantgit.github.io/Issue-Tracker/
 
 
 
-# How to Run
+## How to Run :-
 npm install <br>
 npm start or node index.js or nodemon index.js
 
 
 
-# Features :-
+## Features :-
 
 -User can create a Project.
 
